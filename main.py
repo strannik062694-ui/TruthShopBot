@@ -2,8 +2,8 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 import sqlite3
 
+TOKEN = 
 TOKEN = "8354471373:AAEvhhGRSmsCaNhLedIWppB_FusRZRmNjSM"
-CHANNEL_ID = -1003270323290  # Твой канал
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
